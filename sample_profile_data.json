@@ -1,0 +1,107 @@
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNjE5NjMxNzg2MDIzMzU0MzY4",
+  "rest_id": "1619631786023354368",
+  "affiliates_highlighted_label": {},
+  "avatar": {
+    "image_url": "https://pbs.twimg.com/profile_images/1888791522365087744/_j9E3VKw_normal.jpg"
+  },
+  "core": {
+    "created_at": "Sun Jan 29 09:41:34 +0000 2023",
+    "name": "funkii.sui",
+    "screen_name": "funkiidotsui"
+  },
+  "dm_permissions": {
+    "can_dm": false
+  },
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "legacy": {
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "#MANIFEST THE LIFE YOU WANT.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 9727,
+    "followers_count": 4840,
+    "friends_count": 1124,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 44,
+    "media_count": 391,
+    "normal_followers_count": 4840,
+    "pinned_tweet_ids_str": [
+      "1955578478503571947"
+    ],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619631786023354368/1731746658",
+    "profile_interstitial_type": "",
+    "statuses_count": 3032,
+    "translator_type": "none",
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "location": {
+    "location": "Nozomi, Japan"
+  },
+  "media_permissions": {
+    "can_media_tag": true
+  },
+  "parody_commentary_fan_label": "None",
+  "profile_image_shape": "Circle",
+  "professional": {
+    "rest_id": "1670223062070104065",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 1009,
+        "name": "Cộng đồng",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "privacy": {
+    "protected": false
+  },
+  "relationship_perspectives": {
+    "following": false
+  },
+  "tipjar_settings": {},
+  "verification": {
+    "verified": false
+  },
+  "legacy_extended_profile": {},
+  "is_profile_translatable": false,
+  "has_hidden_subscriptions_on_profile": false,
+  "verification_info": {
+    "is_identity_verified": false,
+    "reason": {
+      "description": {
+        "text": "Tài khoản này đã xác nhận.Tìm hiểu thêm",
+        "entities": [
+          {
+            "from_index": 26,
+            "to_index": 39,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "url_type": "ExternalUrl"
+            }
+          }
+        ]
+      },
+      "verified_since_msec": "1679672556088"
+    }
+  },
+  "highlights_info": {
+    "can_highlight_tweets": true,
+    "highlighted_tweets": "3"
+  },
+  "user_seed_tweet_count": 0,
+  "premium_gifting_eligible": false,
+  "business_account": {},
+  "creator_subscriptions_count": 0
+}
