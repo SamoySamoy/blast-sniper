@@ -37,6 +37,7 @@ def scrape_x_profile_json(profile_url: str) -> dict:
         browser.close()
         return profile_data["data"]["user"]["result"]
 
+# test
 profile_url = "https://x.com/cobie"
 profile_data = scrape_x_profile_json(profile_url)
 print(profile_data)
